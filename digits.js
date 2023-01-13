@@ -1,4 +1,5 @@
 'use strict'
+
 function getCombinations(input) {
     const digits = {
         2: ['a','b', 'c'],
